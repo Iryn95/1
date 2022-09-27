@@ -1,11 +1,11 @@
 {
-  "name": "parcel-project-template",
+  "name": "1",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://NikitaSokolovUA.github.io/Filmoteka-project",
+  "homepage": "https://https://github.com/Iryn95/1",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /Filmoteka-project/"
+    "build": "parcel build src/*.html --public-url /1/"
   },
   "repository": {
     "type": "git",
